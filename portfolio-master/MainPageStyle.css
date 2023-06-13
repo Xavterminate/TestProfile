@@ -1,0 +1,69 @@
+
+                h1{
+                    color: #00ffff;
+                }
+                button{
+                    background-color: navy;
+                    color: #00ffff;
+                    border-radius: 25%;
+                    scale: 500%;
+                   
+                }
+               
+               body{background-color: #ffebcd;}
+               a:link{color: #00ffff;}
+               a:visited{color:#26c726}
+               
+               .HeaderAndLinks{
+                border: solid #07fbdf;
+                margin-left: 50px;
+                background-color: #e8ac3b;
+               
+                display: flex;
+                justify-content: space-evenly;
+               }
+               
+               .SocialMedia{
+                display:flex;
+                justify-content: center;
+                flex: grow 10;
+                
+               }
+               .games{
+                border: solid #0dffdf;
+                display: flex;
+                flex-wrap: wrap;
+
+               }
+               .IndividualGame1{
+                border: solid #cdffFF;
+                
+
+
+                }
+                .IndividualGame1:hover{
+                   opacity:1;
+                   position:absolute ;
+                top:50%;
+                bottom:50%;
+                left:50%;
+                right:50%;
+                transform:translate(-50%,-50%) 
+                    
+                }
+                .IndividualGame2{
+                    border: solid #cdffFF
+                }
+                .IndividualGame3{
+                    border: solid #cdffFF
+                }
+                .IndividualGame4{
+                    border: solid #cdffFF
+                }
+                .IndividualGame5{
+                    border: solid #cdffFF
+                }
+                
+               
+               
+            
